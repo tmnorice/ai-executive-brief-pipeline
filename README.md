@@ -1,3 +1,5 @@
+See the full case study: [Build: AI Executive Brief](https://work.tonuanorice.com/the-work/build-ai-executive-brief)
+
 # AI Executive Brief + Meeting Prep Pipeline
 
 A Google Apps Script and Gemini API workflow that gathers meeting context from Calendar, Gmail, Docs, and Sheets, classifies it with AI, and produces a sourced executive brief in Google Docs, with human review before anything is presented.
